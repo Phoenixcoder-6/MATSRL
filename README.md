@@ -1,0 +1,2 @@
+# Multi-Agent-Text-Summarization-using-Reinforcement-Learning-MATSRL-
+MATSRL (Multi-Agent Text Summarization using Reinforcement Learning) is a novel framework that addresses the challenges of abstractive summarization by dividing the task among multiple specialized agents. Each agent is responsible for a specific subtask, enabling more control, interpretability, and improved performance over traditional models.
