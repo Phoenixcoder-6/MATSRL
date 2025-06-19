@@ -19,3 +19,28 @@ Each agent operates independently yet collaboratively to improve summary quality
 ## ⚙️ Architecture
 ![Screenshot 2025-05-16 012141](https://github.com/user-attachments/assets/92d7af3f-520e-401d-81c9-8e0b7445b5b9)
 
+Input Document
+|
+[Extractor Agent: BERT + A2C]
+|
+Top-ranked Sentences
+|
+[Simplifier Agent: T5]
+|
+Simplified Sentences
+|
+[Synthesizer Agent: BART]
+|
+Final Summary
+
+## 🚀 Features
+
+- Multi-agent collaboration for modular summarization.
+- Reinforcement learning for dynamic, context-aware sentence selection.
+- Pretrained transformers (BERT, T5, BART) for robust language understanding.
+- Easily extensible and interpretable model pipeline.
+- Preprocessed data splits and evaluation scripts included.
+
+## 🗃️ Project Structure
+
+
