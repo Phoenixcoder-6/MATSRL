@@ -19,19 +19,7 @@ Each agent operates independently yet collaboratively to improve summary quality
 ## ⚙️ Architecture
 ![Screenshot 2025-05-16 012141](https://github.com/user-attachments/assets/92d7af3f-520e-401d-81c9-8e0b7445b5b9)
 
-Input Document
-|
-[Extractor Agent: BERT + A2C]
-|
-Top-ranked Sentences
-|
-[Simplifier Agent: T5]
-|
-Simplified Sentences
-|
-[Synthesizer Agent: BART]
-|
-Final Summary
+Input Document -> [Extractor Agent: BERT + A2C] -> Top-ranked Sentences -> [Simplifier Agent: T5] -> Simplified Sentences -> [Synthesizer Agent: BART] -> Final Summary
 
 ## 🚀 Features
 
