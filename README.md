@@ -17,3 +17,5 @@ Each agent operates independently yet collaboratively to improve summary quality
 ---
 
 ## ⚙️ Architecture
+![Screenshot 2025-05-16 012141](https://github.com/user-attachments/assets/92d7af3f-520e-401d-81c9-8e0b7445b5b9)
+
